@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Truly, we live in a society
 Use the left arrow to go back!
